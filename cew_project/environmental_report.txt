@@ -1,0 +1,20 @@
+-----------------------
+Environmental Report
+-----------------------
+
+Timestamp: 2024-01-13 19:39:20
+
+Temperature: 23.0
+Humidity: 57
+Precipitation: 0.0
+
+pressure: 1015.0
+
+windspeed: 13.0
+
+wind direction: "WSW"
+
+Temperature Anomaly:
+-----------------------
+Low Temperature Anomaly: Detected
+-----------------------
